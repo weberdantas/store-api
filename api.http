@@ -42,7 +42,7 @@ Content-Type: application/json
 {
     "credit_card": {
       "number": "1111111111111103",
-      "name": "Luiz carlos",
+      "name": "Luiz carlos 2",
       "expiration_month": 9,
       "expiration_year": 2025,
       "cvv": "123"
